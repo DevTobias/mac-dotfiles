@@ -1,0 +1,87 @@
+{
+  //! Theme
+  "editor.fontFamily": "Dank Mono",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.colorTheme": "Ayu Dark",
+  "window.titleBarStyle": "custom",
+
+  //! Editor
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 1,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "️": true
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.startupEditor": "none",
+
+  //! Terminal
+  "terminal.integrated.fontFamily": "DejaVuSansM Nerd Font",
+
+  //! Default Extensions
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  //! Explorer
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": true,
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+
+  //! Misc
+  "git.confirmSync": false,
+
+  //! Spelling
+  "cSpell.userWords": [
+    "airbnb",
+    "awilix",
+    "catppuccin",
+    "cmds",
+    "credentialless",
+    "dashify",
+    "devtobias",
+    "ecparam",
+    "elysia",
+    "elysiajs",
+    "esbenp",
+    "esnext",
+    "freshgum",
+    "genkey",
+    "genpkey",
+    "Gerasch",
+    "hsts",
+    "jose",
+    "jwtid",
+    "Kärst",
+    "keygen",
+    "Liqour",
+    "mariadb",
+    "maxage",
+    "nocrypt",
+    "noopen",
+    "noout",
+    "nosniff",
+    "openssl",
+    "pino",
+    "pkcs",
+    "pkeyopt",
+    "postgres",
+    "postgresql",
+    "pubout",
+    "sameorigin",
+    "signin",
+    "signout",
+    "sqliqour",
+    "sqliquor",
+    "sqlite",
+    "Taskfile",
+    "topk",
+    "trophoria",
+    "typedi"
+  ]
+}

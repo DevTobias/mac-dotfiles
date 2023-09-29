@@ -1,0 +1,25 @@
+[core]
+	ignorecase = false
+  filemode = false
+[hub]
+  protocol = https
+[color]
+  status = auto
+  diff = auto
+  branch = auto
+  interactive = auto
+  grep = auto
+  ui = auto
+[apply]
+  whitespace = nowarn
+[difftool]
+  prompt = false
+[help]
+  autocorrect = 1
+[push]
+  default = simple
+[init]
+	defaultBranch = main
+[user]
+  name = Tobias Kärst
+  email = tobias.kaerst@pcg.io
